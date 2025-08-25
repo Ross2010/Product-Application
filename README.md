@@ -1,0 +1,9 @@
+Project Retrospective
+This is a retrospective of my entire project in CS-260, Software Development Lifecycles. During this project, I got to wear a few different hats: Scrum Master, Product Owner, and a member of the Development and Testing team. I worked my way through each of the stages of the Agile method, and our end product was for a fictional web company called "SNHU Travel."
+Interpreting User Needs and Developing Programs
+One of the biggest things I learned during this project was how to take what users need and actually build it into a program. It starts with really digging into the user stories that come from market research and focus groups. By doing that, I can create an experience that not only looks good but also genuinely helps users within the application.
+When I'm developing, it's not just about understanding their needs it's also about thinking about how they'll interact with the finished product. To me, an intuitive and easy-to-use interface is just as important as writing clean, efficient code.
+When it comes to my future work, I'm definitely going to carry the Agile mindset with me. I plan to incorporate processes like daily stand-ups to keep the team in sync and maintain open communication. The idea of breaking down big projects into smaller, manageable sprints just makes sense. It allows for constant feedback and keeps a project from going off the rails.
+What Makes a Good Team Member
+All these tasks are important, and on bigger projects, you need a good team. Being a good team member in software development is all about constant, open communication. It's not enough to just point out problems; you have to be ready to offer solutions, too. Being supportive of your teammates keeps things running smoothly and creates a positive work environment where everyone feels valued. After all, it takes the whole team working together to create a complex and polished final application.
+
